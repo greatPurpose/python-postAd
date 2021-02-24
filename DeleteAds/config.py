@@ -1,0 +1,9 @@
+accountId = "3219770709859"
+email = "stuart@currency.com.au"
+X_ECG_UDID = 'EB3E0BE1-08BE-472B-9284-CA6D7B0A8F1B'
+Authorization = 'Basic YXVfaXBob25lX2FwcDplY2dhcGkhZ2xvYmFs'
+token = "42eb6e2277333388f7054fc5189b717845223436efaf1e075f163d8104f95c67"
+machineId = 'SpJwk3wiPE16ziFZqQK0mw760ACZxYEhY47xl-BXvw7nipT9VCPUIvPYs7nzbeHiXEgMrhhmXoDHmr6ufUEMc4cx1eINyZsiozCA'
+sessionId = 'ad68847eb95547c7a781c4b4764c912c'
+password = 'A4B89xc$123'
+csvLocation = 'C:\\Gumtree\\SYDAds\\DeleteAds\\deleteAdIDs'

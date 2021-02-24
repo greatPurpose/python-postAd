@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE items [
+<!ELEMENT items (item*)>
+<!ATTLIST items burpVersion CDATA "">
+<!ATTLIST items exportTime CDATA "">
+<!ELEMENT item (time, url, host, port, protocol, method, path, extension, request, status, responselength, mimetype, response, comment)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT host (#PCDATA)>
+<!ATTLIST host ip CDATA "">
+<!ELEMENT port (#PCDATA)>
+<!ELEMENT protocol (#PCDATA)>
+<!ELEMENT method (#PCDATA)>
+<!ELEMENT path (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>
+<!ELEMENT request (#PCDATA)>
+<!ATTLIST request base64 (true|false) "false">
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT responselength (#PCDATA)>
+<!ELEMENT mimetype (#PCDATA)>
+<!ELEMENT response (#PCDATA)>
+<!ATTLIST response base64 (true|false) "false">
+<!ELEMENT comment (#PCDATA)>
+]>
+<items burpVersion="1.7.36" exportTime="Sat Mar 30 22:04:56 AEDT 2019">
+  <item>
+    <time>Sat Mar 30 09:42:58 AEDT 2019</time>
+    <url><![CDATA[https://ecg-api.gumtree.com.au/api/users/1932228975447/ads/1214187816]]></url>
+    <host ip="104.68.1.79">ecg-api.gumtree.com.au</host>
+    <port>443</port>
+    <protocol>https</protocol>
+    <method><![CDATA[DELETE]]></method>
+    <path><![CDATA[/api/users/1932228975447/ads/1214187816]]></path>
+    <extension>null</extension>
+    <request base64="true"><![CDATA[REVMRVRFIC9hcGkvdXNlcnMvMTkzMjIyODk3NTQ0Ny9hZHMvMTIxNDE4NzgxNiBIVFRQLzEuMQ0KSG9zdDogZWNnLWFwaS5ndW10cmVlLmNvbS5hdQ0KQXV0aG9yaXphdGlvbjogQmFzaWMgWVhWZmFYQm9iMjVsWDJGd2NEcGxZMmRoY0draFoyeHZZbUZzDQpBY2NlcHQ6ICovKg0KWC1FQ0ctVkVSOiAxLjQ5DQpYLUVDRy1BQi1URVNULUdST1VQOiBHQkxJT1MtODg1OS1hO2dibGlvc183ODM1X2ENCkFjY2VwdC1FbmNvZGluZzogZ3ppcCwgZGVmbGF0ZQ0KWC1FQ0ctVURJRDogODE3NzFGNDctMTE1NC00MkZELUFBRUYtMzhDNkUxRkU1MTEzDQpYLUVDRy1BdXRob3JpemF0aW9uLVVzZXI6IGlkPSIxOTMyMjI4OTc1NDQ3IiwgdG9rZW49IjMyYTAyNmZiMjA5MGI2MzNhNTNlMTg5NDM0MjZmZjY1OWQ4OGNmZTIxNDcxOTE3MWRlOTlmMTExZGY2NjdkNmIiDQpBY2NlcHQtTGFuZ3VhZ2U6IGVuLUFVDQpDb250ZW50LUxlbmd0aDogMTA0DQpVc2VyLUFnZW50OiBHdW10cmVlIDExLjcuMCAoaVBob25lOyBpT1MgMTIuMS40OyBlbl9BVSkNCkNvbm5lY3Rpb246IGNsb3NlDQpYLUVDRy1PcmlnaW5hbC1NYWNoaW5lSWQ6IFQ5QlRWNHFhZVkzaUhKamUwME1CSzNieGZnWU9xaWttd0xRWnFkd3YtWTFmMGpYdWEydGtDZndEcDRxZkZOY3hTNDNKTFNWX1F3RVZ5b2FTelJHT252VVZKaDhVVjlwYmF2WQ0KQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi94bWwNCg0KPGRlbGV0ZS1hZCB4bWxucz0iaHR0cDovL3d3dy5lYmF5Y2xhc3NpZmllZHNncm91cC5jb20vc2NoZW1hL2FkL3YxIj48cmVhc29uPk5PX1NBTEU8L3JlYXNvbj48L2RlbGV0ZS1hZD4=]]></request>
+    <status>204</status>
+    <responselength>271</responselength>
+    <mimetype></mimetype>
+    <response base64="true"><![CDATA[SFRUUC8xLjEgMjA0IE5vIENvbnRlbnQNClgtRUNHLUFCLVRFU1QtR1JPVVA6IEdST1VQXzUwDQpBY2NlcHQtUmFuZ2VzOiBieXRlcw0KU2VydmVyOiANClgtSTogYj1hLGs7cz1hO2w9aTUNCkV4cGlyZXM6IEZyaSwgMjkgTWFyIDIwMTkgMjI6NDI6NTkgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTAsIG5vLWNhY2hlLCBuby1zdG9yZQ0KUHJhZ21hOiBuby1jYWNoZQ0KRGF0ZTogRnJpLCAyOSBNYXIgMjAxOSAyMjo0Mjo1OSBHTVQNCkNvbm5lY3Rpb246IGNsb3NlDQoNCg==]]></response>
+    <comment></comment>
+  </item>
+</items>
